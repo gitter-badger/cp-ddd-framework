@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ddd.cp</groupId>
+  <artifactId>cp-ddd-enforce</artifactId>
+  <versioning>
+    <release>0.0.1</release>
+    <versions>
+      <version>0.0.1</version>
+    </versions>
+    <lastUpdated>20200910031314</lastUpdated>
+  </versioning>
+</metadata>
